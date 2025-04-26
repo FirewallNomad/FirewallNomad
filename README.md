@@ -8,8 +8,8 @@
 
 <br>
 
-- [![CISA Badge](https://images.credly.com/size/220x220/images/7c68cdd7-1564-4c55-bd2c-42de5d61b826/image.png)](https://www.credly.com/badges/b9bee521-6d24-4142-bd12-740c87fdc235/public_url)  
-  Certified Information Systems Auditor (CISA)
+- [![CISA Badge](https://raw.githubusercontent.com/FirewallNomad/FirewallNomad/main/certified-information-systems-auditor-cisa.png)  
+  Certified Information Systems Auditor (CISA) (April 2022)
 
   [🔗 View my CISA badge on Credly](https://www.credly.com/badges/b9bee521-6d24-4142-bd12-740c87fdc235/public_url)
 
