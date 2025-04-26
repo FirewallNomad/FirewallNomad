@@ -4,14 +4,18 @@
 - [![Security+ Badge](https://raw.githubusercontent.com/FirewallNomad/FirewallNomad/main/comptia-security-ce-certification.png)](https://www.credly.com/badges/32ccba4e-11d9-42db-8704-1e5acc9c1c81/public_url)  
   CompTIA Security+ Certified (April 2025)
 
-  [🔗 View my CompTIA Security+ badge on Credly](https://www.credly.com/badges/32ccba4e-11d9-42db-8704-1e5acc9c1c81/public_url)
+<br>
+
+[🔗 View my CompTIA Security+ badge on Credly](https://www.credly.com/badges/32ccba4e-11d9-42db-8704-1e5acc9c1c81/public_url)
+
+<br><br>
+
+- [![CISA Badge](https://raw.githubusercontent.com/FirewallNomad/FirewallNomad/main/certified-information-systems-auditor-cisa.png)](https://www.credly.com/badges/b9bee521-6d24-4142-bd12-740c87fdc235/public_url)  
+  Certified Information Systems Auditor (CISA) (April 2022)
 
 <br>
 
-- [![CISA Badge](https://raw.githubusercontent.com/FirewallNomad/FirewallNomad/main/certified-information-systems-auditor-cisa.png)  
-  Certified Information Systems Auditor (CISA) (April 2022)
-
-  [🔗 View my CISA badge on Credly](https://www.credly.com/badges/b9bee521-6d24-4142-bd12-740c87fdc235/public_url)
+[🔗 View my CISA badge on Credly](https://www.credly.com/badges/b9bee521-6d24-4142-bd12-740c87fdc235/public_url)
 
 <br>
 
