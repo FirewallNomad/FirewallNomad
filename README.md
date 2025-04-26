@@ -19,6 +19,20 @@
 
 <br>
 
+## 🛠️ Skills in Progress
+
+- Networking Fundamentals (Learning)
+- Linux Basics (Learning)
+- Web Application Security (Upcoming)
+- Penetration Testing Basics (Upcoming)
+- Vulnerability Scanning (Upcoming)
+- Active Directory Basics (Upcoming)
+- Enumeration Techniques (Upcoming)
+- Password Attacks and Brute Forcing (Upcoming)
+- Pivoting and Tunneling Concepts (Upcoming)
+
+<br>
+
 ## 🚀 My Cybersecurity Journey
 - Currently studying for CISSP and eJPTv2
 - Building strong skills in Pentesting, Red Teaming, and Security Leadership
