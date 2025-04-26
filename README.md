@@ -36,3 +36,10 @@
 ## 🚀 My Cybersecurity Journey
 - Currently studying for CISSP and eJPTv2
 - Building strong skills in Pentesting, Red Teaming, and Security Leadership
+
+<br>
+
+## 📬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/surendercyber/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/FirewallNomad)
